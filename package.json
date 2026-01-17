@@ -1,0 +1,30 @@
+{
+  "name": "my-fast-dapp",
+  "version": "1.0.0",
+  "description": "mini app de base para control del ayuno - aprendizaje plataforma de base",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BernalHQ/my-fast-dapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BernalHQ/my-fast-dapp/issues"
+  },
+  "homepage": "https://github.com/BernalHQ/my-fast-dapp#readme",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.1.0",
+    "@nomicfoundation/hardhat-toolbox-viem": "^5.0.1",
+    "@types/node": "^25.0.9",
+    "dotenv": "^17.2.3",
+    "hardhat": "^3.1.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  },
+  "type": "module"
+}
